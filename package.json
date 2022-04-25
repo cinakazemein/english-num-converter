@@ -1,0 +1,8 @@
+{
+  "name": "english-num-converter",
+  "version": "1.0.1",
+  "description": "convert farsi|arabic number to english",
+  "dependencies": {
+    
+  }
+}
